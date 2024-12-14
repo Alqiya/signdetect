@@ -1,0 +1,24 @@
+item { 
+	name:'Help'
+	id:1
+}
+item { 
+	name:'ok'
+	id:2
+}
+item { 
+	name:'You'
+	id:3
+}
+item { 
+	name:'Mine'
+	id:4
+}
+item { 
+	name:'Say'
+	id:5
+}
+item { 
+	name:'Equal'
+	id:6
+}
